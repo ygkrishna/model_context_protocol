@@ -1,2 +1,6 @@
 # model_context_protocol
-The following repository is an implementation of Multi Agent with MCP Architecture and orchestrate using LangGraph on Research Assistant project.
+The following repository is an implementation of a Multi-Agent System with MCP Architecture and orchestration using LangGraph for the Research Assistant project.
+
+More details of this project can be found in the medium blog post named From Prompts to Protocols: Building Multi-Agent LLM Workflows with MCP and LangGraph and its link below:
+
+
